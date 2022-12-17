@@ -1,0 +1,17 @@
+/* #emailHelp,#passwordHelp{
+    display: none;
+
+} */
+
+.success-msg{
+    display: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #219F35;
+}
